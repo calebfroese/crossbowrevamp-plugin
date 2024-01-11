@@ -1,0 +1,5 @@
+name: CrossbowRevamp
+main: com.calebfroese.crossbowrevamp.CrossbowRevampPlugin
+version: 1.1
+author: Caleb Froese
+api-version: 1.20
